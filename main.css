@@ -1,0 +1,13 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+
+#logotitle {
+    font-weight: 600;
+}
+
+#container {
+    margin-top: 300px;
+}
