@@ -1,0 +1,60 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+
+#logotitle {
+    font-weight: 600;
+}
+
+#part1 {
+    margin-top: 300px;
+}
+
+
+
+table {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+
+div#line1 span#a {
+    display:inline;
+    }
+div#line1:hover span#a {
+display:none;
+}
+div#line1 span#b {
+display:none;
+}
+div#line1:hover span#b {
+display:inline;
+}
+
+
+div#line2 span#c {
+    display:inline;
+    }
+div#line2:hover span#c {
+display:none;
+}
+div#line2 span#d {
+display:none;
+}
+div#line2:hover span#d {
+display:inline;
+}
+
+#arrow{
+    margin-top: 300px;
+    text-align: center;
+}
+#part2{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
